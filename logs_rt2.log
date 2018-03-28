@@ -1,0 +1,23 @@
+Attaching to tema1_rt2_1
+[36mrt2_1  |[0m PING rt1 (10.20.30.1) 4000(4028) bytes of data.
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=1 ttl=64 time=0.148 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=2 ttl=64 time=0.283 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=3 ttl=64 time=0.255 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=4 ttl=64 time=0.128 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=5 ttl=64 time=0.221 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=6 ttl=64 time=0.247 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=7 ttl=64 time=0.356 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=8 ttl=64 time=0.127 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=9 ttl=64 time=0.211 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=10 ttl=64 time=0.101 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=11 ttl=64 time=0.278 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=12 ttl=64 time=0.433 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=13 ttl=64 time=0.321 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=14 ttl=64 time=0.218 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=15 ttl=64 time=0.216 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=16 ttl=64 time=0.110 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=17 ttl=64 time=0.201 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=18 ttl=64 time=0.112 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=19 ttl=64 time=0.216 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=20 ttl=64 time=0.230 ms
+[36mrt2_1  |[0m 4008 bytes from tema1_rt1_1.tema1_tnet2 (10.20.30.1): icmp_seq=21 ttl=64 time=0.195 ms
